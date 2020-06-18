@@ -1,0 +1,39 @@
+\contentsline {chapter}{\MakeUppercase {ACKNOWLEDGMENT}}{i}
+\contentsline {chapter}{\MakeUppercase {Abstract}}{ii}
+\contentsline {chapter}{LIST OF TABLES}{iii}
+\contentsline {chapter}{LIST OF FIGURES}{iv}
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}
+\contentsline {chapter}{\numberline {2}LITERATURE SURVEY}{3}
+\contentsline {section}{\numberline {2.1}Online Food Ordering System - International Journal of Recent Technology and Engineering, Trupthi B, Rakshitha Raj R, J B Akshaya, Srilaxmi C P }{3}
+\contentsline {section}{\numberline {2.2}Network Architecture for an Automated Service System}{3}
+\contentsline {section}{\numberline {2.3}A Study on E-Commerce Applying in Taiwan’s Restaurant Franchise}{4}
+\contentsline {section}{\numberline {2.4}Research on E-commerce Mode of Food Enterprises}{4}
+\contentsline {chapter}{\numberline {3}SYSTEM DESIGN}{5}
+\contentsline {section}{\numberline {3.1}DISADVANTAGES OF THE EXISTING SYSTEM}{5}
+\contentsline {section}{\numberline {3.2}PROPOSED SYSTEM}{5}
+\contentsline {subsection}{\numberline {3.2.1}Advantages of Proposed System}{5}
+\contentsline {section}{\numberline {3.3}SYSTEM ARCHITECTURE}{6}
+\contentsline {subsection}{\numberline {3.3.1}User Module}{6}
+\contentsline {subsection}{\numberline {3.3.2}Food Item Management Module}{7}
+\contentsline {subsection}{\numberline {3.3.3}Category Management Module }{8}
+\contentsline {subsection}{\numberline {3.3.4}Confirm Order Module}{9}
+\contentsline {subsection}{\numberline {3.3.5}Comment Module }{9}
+\contentsline {subsection}{\numberline {3.3.6}QR Code scanning }{10}
+\contentsline {subsection}{\numberline {3.3.7}Rating Module}{11}
+\contentsline {subsection}{\numberline {3.3.8}Payment Module }{11}
+\contentsline {chapter}{\numberline {4}IMPLEMENTATION}{12}
+\contentsline {section}{\numberline {4.1}OVERVIEW}{12}
+\contentsline {section}{\numberline {4.2}Implemenetation of the Modules}{12}
+\contentsline {section}{\numberline {4.3}Implementation of Payment Module}{14}
+\contentsline {section}{\numberline {4.4}Implementation of Social Authentication}{16}
+\contentsline {section}{\numberline {4.5}Implementation of Django Filters}{17}
+\contentsline {section}{\numberline {4.6}Implementation of QR Code Scanning}{17}
+\contentsline {section}{\numberline {4.7}Creating Databases}{19}
+\contentsline {section}{\numberline {4.8}Deploying the Proposed System}{20}
+\contentsline {chapter}{\numberline {5}RESULTS}{23}
+\contentsline {chapter}{\numberline {6}FUTURE SCOPE}{24}
+\contentsline {chapter}{\numberline {7}CONCLUSION}{26}
+\contentsline {chapter}{\MakeUppercase {References}}{27}
+\contentsline {chapter}{Appendices}{28}
+\contentsline {chapter}{\numberline {A}Source Code}{29}
+\contentsline {chapter}{\numberline {B}Screenshots}{39}
